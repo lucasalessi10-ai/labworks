@@ -1,0 +1,5 @@
+lab-report-app/
+  package.json
+  next.config.js
+  pages/
+    index.tsx   ✅ (must exist, otherwise still 404)
